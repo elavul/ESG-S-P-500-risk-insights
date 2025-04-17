@@ -50,9 +50,10 @@
 
 ---
 
-### 📈 Final Visuals & Some Insights
+### 📈 Final Static Visuals & Some Insights
 Tableau Dashboard:
 ![Screenshot 2025-03-21 110302](https://github.com/user-attachments/assets/86aa8e7d-7cdc-4f30-98f4-782c24a41359)
+Additional:
 ![Screenshot 2025-04-17 010726](https://github.com/user-attachments/assets/e39ad620-fe45-4a04-8a3a-f3a6e07f17af)
 
 ![Screenshot 2025-04-17 010406](https://github.com/user-attachments/assets/86c9b249-f984-4304-b145-fa8d9feeb7b7)
