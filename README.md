@@ -52,11 +52,13 @@
 ### 📈 Final Static Visuals & Some Insights
 Tableau Dashboard:
 ![Screenshot 2025-03-21 110302](https://github.com/user-attachments/assets/86aa8e7d-7cdc-4f30-98f4-782c24a41359)
+![Screenshot 2025-04-17 180219](https://github.com/user-attachments/assets/19de40db-c4b7-4ba5-9728-18a17ece6353)
 Additional:
 ![Screenshot 2025-04-17 010726](https://github.com/user-attachments/assets/e39ad620-fe45-4a04-8a3a-f3a6e07f17af)
-
+![Screenshot 2025-04-17 180651](https://github.com/user-attachments/assets/3eb2831a-06b3-45d5-919c-cd16f417dd39)
 ![Screenshot 2025-04-17 010406](https://github.com/user-attachments/assets/86c9b249-f984-4304-b145-fa8d9feeb7b7)
 ![Screenshot 2025-04-17 012611](https://github.com/user-attachments/assets/bfd24fe6-257b-4306-9c41-c0fc5a7ef8a2)
+
 
 📌 Some Insights:
 💡Investment ESG risk is sector-skewed — Energy and Utilities are high-risk outliers.
