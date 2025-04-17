@@ -1,5 +1,8 @@
 ## 🌱 ESG S&P 500 Risk Insights
 
+<div class='tableauPlaceholder' id='viz1744886553284' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ES&#47;ESGSP500riskinsights&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ESGSP500riskinsights&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ES&#47;ESGSP500riskinsights&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>              
+
+
 📈  This project taught me how to combine quantitative measures (like scores) with qualitative flags (like controversy levels) to reveal deeper business risks. I was especially interested in how these two can influence the Total ESG Risk Scores across companies in the S&P 500, with a focus on the Energy and Healthcare sector
 
 📈  It also showed me how advanced visual storytelling can bring to light patterns and exceptions that raw tables alone can’t communicate.
